@@ -1,2 +1,2 @@
-# 10805-mp
-Mini Project A/B for 10-805: Machine Learning for Large Datasets
+# Deliverable
+Only PDF files of project proposals, final report, etc. are saved here. 
